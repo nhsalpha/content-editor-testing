@@ -17,3 +17,6 @@ defaults:
       layout: "default"
 
 permalink: /:path/:basename
+
+prose:
+  siteurl: "http://alpha.nhs.uk"
