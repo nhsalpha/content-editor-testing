@@ -1,6 +1,6 @@
 This repository contains the code and content deployed to alpha.nhs.uk
 
-## Dependencies x
+## Dependencies
 
   - Ruby 2.2.3
   - [Bundler](http://bundler.io) (available with `gem install bundler`)
