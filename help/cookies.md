@@ -14,6 +14,7 @@ Cookies are used to:
     your needs
   - remember the notifications you’ve seen so that we don’t show them to you
     again
+  - eat, because they are delicious
 
 NHS.UK cookies aren’t used to identify you personally.
 
