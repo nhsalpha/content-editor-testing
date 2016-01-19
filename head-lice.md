@@ -8,6 +8,8 @@ condition: Head lice
 Treat head lice at home with lotion, spray and a special comb from the pharmacy – no need to see your GP.
 {:.lede}
 
+They are very itchy.
+
 ##Check if you have them
 
 <div class="condition-images">
