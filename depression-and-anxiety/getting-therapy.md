@@ -4,7 +4,7 @@ condition: Depression and anxiety
 nav_order: 3
 ---
 
-#Getting therapy
+# Getting therapy
 
 Talking to a therapist can help with:
 
